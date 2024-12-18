@@ -47,4 +47,6 @@ Figura geometryczna - to dowolny podzbiór przestrzeni
           - Kwadraty:
               - cztery boki równe, cztery kąty proste 
               - przecięcie rombu i prostokątu
-  
+
+Klasyfikację figur płaskich przedstawiłem na diagramie w poniższym linku
+- https://share.sketchpad.app/24/310-c05c-195c07.jpeg
