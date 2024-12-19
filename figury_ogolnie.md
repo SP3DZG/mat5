@@ -50,3 +50,6 @@ Figura geometryczna - to dowolny podzbiór przestrzeni
 
 Klasyfikację figur płaskich przedstawiłem na diagramie w poniższym linku
 - https://share.sketchpad.app/24/310-c05c-195c07.jpeg
+
+Prosta prezentacja równoległoboków:
+- https://docs.google.com/presentation/d/13CYDhUesrzuV49N_ZeS8CKQYcGWoaC5v9MyOL-QFNY0/edit?usp=sharing
